@@ -16,4 +16,5 @@
 - [Linkedin](https://https://www.linkedin.com/in/d-naga-phanindra/)
 - [LeetCode](https://leetcode.com/D_Naga_Phanindra/)
 - [Blog](https://phani-lp.github.io/site/)
+- [Naukri](https://www.naukri.com/mnjuser/profile?id=&altresid)
 <!-- BLOG-POST-LIST:END -->
