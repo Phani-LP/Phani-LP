@@ -11,8 +11,9 @@
 
 <br>
 
-# Blog posts
+# My Profiles
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-
+- [Linkedin](https://https://www.linkedin.com/in/d-naga-phanindra/)
+- [LeetCode](https://leetcode.com/D_Naga_Phanindra/)
+- [Blog](https://phani-lp.github.io/site/)
 <!-- BLOG-POST-LIST:END -->
