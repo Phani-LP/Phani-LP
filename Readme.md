@@ -8,13 +8,12 @@
 <img align='Left' src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img align='Left' src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
-
 <br>
 
 # My Profiles
 <!-- BLOG-POST-LIST:START -->
-- [Linkedin](https://https://www.linkedin.com/in/d-naga-phanindra/)
-- [LeetCode](https://leetcode.com/D_Naga_Phanindra/)
-- [Blog](https://phani-lp.github.io/site/)
-- [Naukri](https://www.naukri.com/mnjuser/profile?id=&altresid)
+[Linkedin](https://https://www.linkedin.com/in/d-naga-phanindra/)
+[LeetCode](https://leetcode.com/D_Naga_Phanindra/)
+[Blog](https://phani-lp.github.io/site/)
+[Naukri](https://www.naukri.com/mnjuser/profile?id=&altresid)
 <!-- BLOG-POST-LIST:END -->
