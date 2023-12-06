@@ -12,8 +12,8 @@
 
 # My Profiles
 <!-- BLOG-POST-LIST:START -->
-[Linkedin](https://https://www.linkedin.com/in/d-naga-phanindra/)
-[LeetCode](https://leetcode.com/D_Naga_Phanindra/)
-[Blog](https://phani-lp.github.io/site/)
-[Naukri](https://www.naukri.com/mnjuser/profile?id=&altresid)
+[Linkedin](https://https://www.linkedin.com/in/d-naga-phanindra/)<br>
+[Naukri](https://www.naukri.com/mnjuser/profile?id=&altresid)<br>
+[Blog](https://phani-lp.github.io/site/)<br>
+[LeetCode](https://leetcode.com/D_Naga_Phanindra/)<br>
 <!-- BLOG-POST-LIST:END -->
