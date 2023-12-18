@@ -11,6 +11,6 @@
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://www.linkedin.com/in/d-naga-phanindra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="d-naga-phanindra" height="33" width="33" /></a>
+<a href="https://www.linkedin.com/in/d-naga-phanindra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="d-naga-phanindra" height="32" width="32" /></a>
 <a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="33" width="33" /></a>
 <a href="https://leetcode.com/D_Naga_Phanindra/" target="blank"><img align="center" src="https://i.ibb.co/7rH7XY5/leetcode.png" alt="D_Naga_Phanindra" height="33" width="33" /></a>
