@@ -1,4 +1,4 @@
-# Hi there, I'm Phani<a href="https://phani-lp.github.io/Portfolio/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+# Hey there, I'm Phani<a href="https://phani-lp.github.io/Portfolio/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 <img align='Left' width=" 47%" src="https://github-readme-stats.vercel.app/api?username=Phani-LP&show_icons=true&theme=radical"/>
 <img align='Left' width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phani-LP&layout=compact"/>
 <img align='Left' src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
